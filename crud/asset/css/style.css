@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.h1-judul {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.img-dahsboard {
+  border-radius: 15px;
+}
+
+.img-profil {
+  padding: 0;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+.container-card {
+  background-color: white;
+  border-radius: 20px;
+}
+
+.btn-satu {
+  background-color: #0d6efd;
+  border: 0;
+  font-weight: bold;
+}
